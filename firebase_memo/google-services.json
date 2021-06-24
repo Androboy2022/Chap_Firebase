@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "552524357180",
+    "firebase_url": "https://fir-2020-4a572-default-rtdb.firebaseio.com",
+    "project_id": "fir-2020-4a572",
+    "storage_bucket": "fir-2020-4a572.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552524357180:android:6b07a9faaac2372de92d39",
+        "android_client_info": {
+          "package_name": "com.cyberkyj.chap_f"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552524357180-kdpoa13h57nfc0haai4n9bt6kii830k0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2pB8C-r2VImjYA0bsBXw3BGIxOOlvBhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552524357180-kdpoa13h57nfc0haai4n9bt6kii830k0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552524357180:android:a8a0feb2ea70520fe92d39",
+        "android_client_info": {
+          "package_name": "com.cyberkyj.firebase_memo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552524357180-kdpoa13h57nfc0haai4n9bt6kii830k0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2pB8C-r2VImjYA0bsBXw3BGIxOOlvBhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552524357180-kdpoa13h57nfc0haai4n9bt6kii830k0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552524357180:android:6bfa4826a5a92982e92d39",
+        "android_client_info": {
+          "package_name": "com.cyberkyj.myfirebase_ex2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552524357180-kdpoa13h57nfc0haai4n9bt6kii830k0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2pB8C-r2VImjYA0bsBXw3BGIxOOlvBhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552524357180-kdpoa13h57nfc0haai4n9bt6kii830k0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

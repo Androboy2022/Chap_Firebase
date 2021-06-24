@@ -1,0 +1,8 @@
+include ':firebase_memo'
+include ':firebasechat'
+include ':firebase_authentication'
+include ':firestorage'
+include ':firestore'
+include ':realtime_firebase'
+include ':app'
+rootProject.name = "Chap_Firebase"
